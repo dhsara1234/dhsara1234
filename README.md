@@ -1,7 +1,7 @@
 # Hi 👋, I'm Dhahri Sarra
 
 ### Electrical, Electronics & Automation Engineer  
-**Specialized in Robotics, Embedded Systems & Industrial Automation**
+**Specialized in Embedded Systems, Industrial Automation & Robotics **
 
 ![header](https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif)
 
